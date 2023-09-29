@@ -1,2 +1,1 @@
-This is a sample README file. 
-This file is mandatory in projects. 
+This is my optional readme file
